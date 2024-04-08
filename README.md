@@ -7,7 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## This password Generator project using the react in-built hookes
+
+
+## This password Generator project using the react in-built hooks
+
   1. useState:
    - Used to declare state variables in functional components.
   - It returns an array with two elements: the current state value and a function that lets you update it.
@@ -20,3 +23,7 @@ Currently, two official plugins are available:
   4. useEffect :
    - Used for handling side effects in functional components, such as data fetching, subscriptions, or manually changing the DOM.
    - It takes a function as its first argument, which will be executed after the component renders.
+
+## The Password Generator web App 
+  - use further steps
+  - project will be in typescript also  and add backend MERN (for routing and building Apis)
